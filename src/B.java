@@ -18,7 +18,7 @@ public class B {
     }
 
     
-    public void setA2(float B2) {
+    public void setB2(float B2) {
         this.B2 = B2;
     }
 
