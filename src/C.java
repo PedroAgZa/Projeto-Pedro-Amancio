@@ -15,6 +15,7 @@ public class C {
         return C2;
     }
 
+    
     public void setC2(int C2) {
         this.C2 = C2;
     }
