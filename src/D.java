@@ -28,8 +28,13 @@ public class D {
         System.out.println("MD2()");
     }
 
+    public static void MD3(){
+        System.out.println("MD3()");
+    }
+
     public static void main(String[] args) throws Exception {
         MD1();
         MD2();
+        MD3();
     }
 }
