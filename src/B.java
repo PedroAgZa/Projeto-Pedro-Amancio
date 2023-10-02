@@ -30,9 +30,13 @@ public class B {
         System.out.println("MB2()");
     }
 
+    public static void MB3(){
+        System.out.println("MB3()");
+    }
 
     public static void main(String[] args) throws Exception {
         MB1();
         MB2();
+        MB3();
     }
 }
