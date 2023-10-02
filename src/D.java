@@ -32,9 +32,14 @@ public class D {
         System.out.println("MD3()");
     }
 
+    public static void MD4(){
+        System.out.println("MD4()");
+    }
+
     public static void main(String[] args) throws Exception {
         MD1();
         MD2();
         MD3();
+        MD4();
     }
 }
