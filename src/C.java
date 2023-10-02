@@ -28,8 +28,13 @@ public class C {
         System.out.println("MC2()");
     }
 
+    public static void MC3(){
+        System.out.println("MC3()");
+    }
+
     public static void main(String[] args) throws Exception {
         MC1();
         MC2();
+        MC3();
     }
 }
