@@ -1,6 +1,7 @@
 public class A {
     private int A1;
     private float A2;
+}
 
 
     public int getA1() {
@@ -18,6 +19,11 @@ public class A {
     public void setA2(float A2) {
         this.A2 = A2;
     }
+
+    public int getSoma(int a, int b) {
+        return a + b;
+    }
+
 
     public static void MA1(){
         System.out.println("MA1()");
